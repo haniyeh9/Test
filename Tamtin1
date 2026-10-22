@@ -1,0 +1,41 @@
+<html>
+<body>
+
+<form>
+
+    <p>
+        Full Name
+        <input type="text">
+    </p>
+
+    <p>
+        Last Name
+        <input type="text">
+    </p>
+
+    <p>
+        Age
+        <input type="number">
+    </p>
+
+    <p>
+        Sex
+        <input type="radio" name="sex"> Female
+        <input type="radio" name="sex"> Man
+    </p>
+
+    <p>
+        Gmail
+        <input type="email">
+    </p>
+
+    <p>
+        <button type="button" onclick="alert('Form Submitted!')">
+            Submit
+        </button>
+    </p>
+
+</form>
+
+</body>
+</html>
