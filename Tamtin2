@@ -1,0 +1,23 @@
+<html>  
+<body>  <table border='1'>  
+    <tr>  
+        <th>fname</th>  
+        <th>Lname</th>  
+        <th>age</th>  
+    </tr>  
+
+    <tr>  
+        <td>Sara</td>  
+        <td>mohammadi</td>  
+        <td>25</td>  
+    </tr>  
+
+    <tr>  
+        <td>Dara</td>  
+        <td>Akbari</td>  
+        <td>20</td>  
+    </tr>  
+</table>
+
+</body>  
+</html>
