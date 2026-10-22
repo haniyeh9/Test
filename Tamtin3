@@ -1,0 +1,28 @@
+<html>
+<head>
+    <title>Color Page</title>
+
+    <style>
+        body {
+            background-color: #333333;
+            text-align: center;
+        }
+
+        h1 {
+            color: red;
+        }
+
+        p {
+            color: blue;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>تمرین گفته شده</h1>
+
+    <p>هانیه محمدی</p>
+
+</body>
+</html>
