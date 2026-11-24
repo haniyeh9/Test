@@ -1,0 +1,23 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Student</title>
+</head>
+<body>
+
+<?php
+$student = array(
+    "name" => "Hanieh",
+    "age" => 22,
+    "field" => "Computer Engineering"
+);
+
+echo $student["name"] . "<br>";
+echo $student["age"] . "<br>";
+echo $student["field"];
+?>
+
+</body>
+</html>
