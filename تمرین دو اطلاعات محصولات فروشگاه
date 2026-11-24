@@ -1,0 +1,22 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Product</title>
+</head>
+<body>
+
+<?php
+$product = array(
+    "id" => 101,
+    "title" => "Laptop",
+    "price" => 25000000
+);
+
+echo "Title: " . $product["title"] . "<br>";
+echo "Price: " . $product["price"];
+?>
+
+</body>
+</html>
